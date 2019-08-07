@@ -1,1 +1,1 @@
-the way using tensorflow (deeping learning) to evaluate the irregular domain size, see figure 6 in the publication by Yang-Bin Ma et.al.Journal of Applied Physics 121, 024103 (2017): https://aip.scitation.org/doi/10.1063/1.4973574.
+the way using tensorflow (deeping learning) to evaluate the size of irregular domain shape, see figure 6 in the publication by Yang-Bin Ma et.al.Journal of Applied Physics 121, 024103 (2017): https://aip.scitation.org/doi/10.1063/1.4973574.
